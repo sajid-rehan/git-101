@@ -2,7 +2,7 @@
 
 Dieses Repository enthält Anleitungen zu verschiedenen Themen rund um Git und Softwareentwicklung.
 
-## Inhaltsverzeichnis
+## Anleitungen
 
 - [Anleitung für Pull Requests](pull-request-guide/README.md)
 
